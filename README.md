@@ -44,6 +44,8 @@ These same results were then shown as pie charts displayed with percentages. The
 
 For buying, the dominant behavior is to purchase a few times a month with 33.7% of customers reporting this behavior. Interestingly, the next most common behavior is to purchase once a week. A similar percentage of consumers purchase once a week as they do once a month. 
 
+Finally, a chi squared test was performed to compare browsing frequency and purchasing frequency. The p-value for this test was extremely low. With an alpha of 0.05, 0.005, or 0.005, the test would show that there is a statistically significant relationship between browsing and purchasing. This relationship is demonstrated in the gradient map at the end of the code. 
+
 The dominant behaviors show that in general, customers browse more frequently than they purchase. This makes sense, because most people are limited financially. This may restrict customers’ wish lists of “nice to haves” to their “must haves.” Additionally, people may browse several times when searching for a single product to find the best reviewed product at the best price. A final reason that this may be the case is because one consumer may buy multiple products in a single purchase. This is a limitation of the data set, because it is unknown whether purchase frequency corresponds to each item or each order. Ultimately, as a seller, it may be important to target the most frequent browsers so that when they go to make a purchase, your product is top of mind and more likely to be added to their cart. 
 
 
