@@ -1,6 +1,6 @@
 # Project1-G5
 Instructions to Find our Assignment Components
-Our ReadMe contains our written analysis. The final code can be found in the folder “Project 1 G5” and is titled “Amazon_Code_Final.” Our individual codes can be found in the branches corresponding to our names. All charts and graphs were put into the “Output” folder within the repo. Our slide deck is also within the repo folder titled “Northwestern Group 5 presentation.” 
+Our ReadMe contains our written analysis. The final code can be found in the folder “Project 1 G5” and is titled “Amazon_Code_Final_12.18.” Our individual codes can be found in the branches corresponding to our names. All charts and graphs were put into the “Output” folder within the repo. Our slide deck is also within the repo folder titled “Northwestern Group 5 presentation.” 
 
 
 Written Analysis 
